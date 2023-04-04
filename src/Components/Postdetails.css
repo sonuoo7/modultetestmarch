@@ -1,0 +1,87 @@
+.post-details-heading {
+    position: absolute;
+    width: 90%;
+    padding-bottom: 10px;
+    height: 39px;
+    left: 40px;
+    font-size: 40px;
+    top: 30px;
+    color: #FFFFFF;
+
+}
+.underline{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 105px;
+    border-bottom: 1px solid white;
+}
+
+.post-details-id {
+    position: absolute;
+    width: 788px;
+    height: 58px;
+    left: 32px;
+    top: 118px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.post-details-card-img-top {
+    position: absolute;
+    width: 283px;
+    height: 283px;
+    left: 32px;
+    top: 195px;
+    border-radius: 20px;
+
+}
+.post-details-card-id{
+    position: absolute;
+        width: 582px;
+        height: 58px;
+        left: 54px;
+        top: 493px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 58px;
+        /* identical to box height */
+    
+    
+        color: #FFFFFF;
+}
+.post-details-card-title{
+    position: absolute;
+        width: 1231px;
+        height: 58px;
+        left: 54px;
+        top: 573px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 58px;
+        /* identical to box height */
+    
+    
+        color: #FFFFFF;
+}
+.post-details-card-body-text{
+    position: absolute;
+        width: 1224px;
+        height: 191px;
+        left: 54px;
+        top: 653px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 58px;
+    
+        color: #FFFFFF;
+}
